@@ -1,0 +1,6 @@
+python-dotenv
+pyrogram[tgcrypto]
+motor
+httpx
+tqdm
+aiofiles
